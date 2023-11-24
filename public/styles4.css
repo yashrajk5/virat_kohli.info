@@ -1,0 +1,53 @@
+/* Style the history section */
+.history-section {
+    background-color: #f9f9f9;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.history-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.history-content h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.timeline {
+    list-style-type: none;
+    padding: 0;
+    position: relative;
+}
+
+.timeline li {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 40px;
+}
+
+.timeline-date {
+    flex: 0 0 20%;
+    text-align: right;
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.timeline-event {
+    flex: 0 0 75%;
+    text-align: left;
+}
+
+.timeline-event h3 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.timeline-event p {
+    font-size: 1.2rem;
+    color: #555;
+}

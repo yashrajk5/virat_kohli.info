@@ -1,0 +1,47 @@
+/* Style the details section */
+.details-section {
+    background-color: #ffffff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.details-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.details-content h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.details-category {
+    margin-bottom: 40px;
+}
+
+.details-category h3 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.details-category ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.details-category li {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.details-category li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.details-category li a:hover {
+    text-decoration: underline;
+}

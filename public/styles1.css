@@ -1,0 +1,41 @@
+/* Reset some default styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #AFC1FF;
+    color: rgb(33, 46, 161);
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the horizontal navigation bar */
+nav.horizontal-nav {
+    background-color: #2f51ca;
+}
+
+nav.horizontal-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav.horizontal-nav li {
+    display: inline;
+}
+
+nav.horizontal-nav a {
+    display: inline-block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav.horizontal-nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
