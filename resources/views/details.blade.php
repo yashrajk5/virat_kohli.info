@@ -15,33 +15,27 @@
         <body>
             
         <div class="details-content">
-            <h2>Details</h2>
-            <div class="details-category">
-                <h3>Books</h3>
-                <ul>
-                    <li><a href="#">Book Title 1</a></li>
-                    <li><a href="#">Book Title 2</a></li>
-                    <!-- Add more book titles as needed -->
-                </ul>
+            <div class="image-section">
+                <!-- Replace 'path/to/your/image1.jpg' with the actual path to your first image file -->
+                <img src="{{ asset('images\Anvir.jpg') }}" alt="History Image">
             </div>
-            <div class="details-category">
-                <h3>Awards</h3>
-                <ul>
-                    <li>Award Title 1</li>
-                    <li>Award Title 2</li>
-                    <!-- Add more awards as needed -->
-                </ul>
+            <div class="text-section">
+                <h2>Details</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, justo eget bibendum volutpat,
+                    justo felis bibendum justo, vitae elementum dolor odio vel risus. Vestibulum ante ipsum primis in
+                    faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur eu mi ut ligula viverra gravida
+                    ac ut libero.
+                </p>
             </div>
-            <div class="details-category">
-                <h3>News Articles</h3>
-                <ul>
-                    <li><a href="#">News Article 1</a></li>
-                    <li><a href="#">News Article 2</a></li>
-                    <!-- Add more news articles as needed -->
-                </ul>
+            <div class="image-section">
+                <!-- Replace 'path/to/your/image2.jpg' with the actual path to your second image file -->
+                <img src="{{ asset('images\Virat3.jpg') }}" alt="History Image">
             </div>
         </div>
+
         </body>
         </html>
+
     </section>
 @endsection

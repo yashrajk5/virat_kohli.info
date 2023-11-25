@@ -1,14 +1,15 @@
-/* Style the history section */
-.history-section {
-    background-color: #f9f9f9;
+/* Style the details section */
+.details-section {
+    background-color: #ffffff;
     padding: 50px 20px;
     text-align: center;
 }
 
-.history-content {
+.details-content {
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line on smaller screens */
     justify-content: space-between;
     align-items: center;
 }
@@ -19,10 +20,11 @@
 }
 
 .image-section {
-    flex: 1;
+    flex: 0 0 48%; /* Each image takes up 48% of the container */
+    margin-bottom: 20px; /* Add some margin between images */
 }
 
-/* Style for the history image */
+/* Style for the details images */
 .image-section img {
     max-width: 100%;
     height: auto;
@@ -30,7 +32,7 @@
 
 /* Responsive styling */
 @media (max-width: 768px) {
-    .history-content {
+    .details-content {
         flex-direction: column;
     }
 

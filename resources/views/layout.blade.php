@@ -11,7 +11,7 @@
 
 <body>
 <header>
-    <h1>MY IDEAL VIRAT KHOLI</h1>
+    <h1>VIRAT KHOLI</h1>
     <nav class="horizontal-nav">
         <ul>
             <li><a href="/">Home</a></li>
