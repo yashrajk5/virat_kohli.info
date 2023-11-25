@@ -16,17 +16,17 @@
         </html>
         <div class="contact-content">
             <div class="address-section">
-                <h2>Contact Us</h2>
+                <h2>Address</h2>
                 <p>
                     123 Main Street,<br>
-                    Cityville, Country<br>
+                    Mumbai, India<br>
                     Zip Code: 12345
                 </p>
             </div>
             <div class="social-media-section">
                 <h3>Follow Us</h3>
                 <ul class="social-media-links">
-                    <li><a href="#" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+
                     <li><a href="#" target="_blank" rel="noopener noreferrer">Twitter</a></li>
                     <li><a href="#" target="_blank" rel="noopener noreferrer">Instagram</a></li>
                     <!-- Add more social media links as needed -->

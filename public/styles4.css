@@ -1,12 +1,12 @@
 /* Style the history section */
 .history-section {
-    background-color: #f9f9f9;
+    background-color: rgb(197, 202, 224);
     padding: 50px 20px;
     text-align: center;
 }
 
 .history-content {
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;

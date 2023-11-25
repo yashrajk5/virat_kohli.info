@@ -30,8 +30,8 @@
     </section>
 
     <footer>
-        <p>Social Media Handles: [Add handles here]</p>
-        <p>&copy; 2023 [Personality Name]. All rights reserved.</p>
+        <p>Social Media Handles</p>
+        <p>&copy; 2023 [Virat Kohli]. All rights reserved.</p>
     </footer>
    
 </body>
