@@ -27,8 +27,8 @@
                 <h3>Follow Us</h3>
                 <ul class="social-media-links">
 
-                    <li><a href="#" target="_blank" rel="noopener noreferrer">Twitter</a></li>
-                    <li><a href="#" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+                    <li><a href="https://twitter.com/imVkohli" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                    <li><a href="https://www.instagram.com/virat.kohli/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
                     <!-- Add more social media links as needed -->
                 </ul>
             </div>
